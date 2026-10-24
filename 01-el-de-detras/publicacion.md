@@ -3,7 +3,7 @@
 - Vídeo: `betacyclinglab-01-el-de-detras.mp4` · 1080×1920 · 30 fps · 72 s · 69 MB (no hace falta comprimir: < 100 MB)
 - Portada: `portada.jpg` (segundo 12,8: los dos ciclistas con 236 W y 194 W)
 - No remite a ningún otro vídeo · cifras contrastadas (Blocken 2013 y 2018, Defraeye 2010, Martin 1998)
-- Programado en Metricool (Betacyclinglab, 7550641) el domingo 25/10/2026: YouTube 16:00 · TikTok 18:00 · Instagram 21:00 (portada en 12,8 s). Facebook no.
+- Programado en Metricool (Betacyclinglab, 7550641) el sábado 24/10/2026: YouTube 18:00 · TikTok 18:30 · Instagram 20:00 (portada en 12,8 s). Facebook no.
 
 ## Instagram (reel)
 ```
