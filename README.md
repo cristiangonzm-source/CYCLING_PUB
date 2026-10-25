@@ -11,3 +11,4 @@ El proyecto (motor, visor, guiones, biblioteca de fuentes) está en el repositor
 
 ## Reels
 - [01 · El de detrás (rebufo)](01-el-de-detras/publicacion.md)
+- [02 · Tirar del pedal](02-tirar-pedal/publicacion.md)
