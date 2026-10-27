@@ -1,9 +1,10 @@
 # 04 · Las curvas
 
-- Vídeo: `betacyclinglab-04-curvas.mp4` · 1080×1920 · 30 fps · ~48 s
-- Portada: `portada.jpg` (el anillo de agarre se pasa en rojo al frenar dentro de la curva)
+- Vídeo: `betacyclinglab-04-curvas.mp4` · 1080×1920 · 30 fps · 48,5 s · 38 MB (< 100 MB, sin comprimir)
+- Portada: `portada.jpg` (segundo 1,85: «¿Frenas dentro de las curvas?» con los frenos encendidos en plena curva)
 - No remite a ningún otro vídeo · datos: círculo de fricción (μ 0,8, curva de 25 m: sin frenar caben ~50 km/h; frenando fuerte dentro te pasas, estimado con la simulación), técnica de bajada (British Cycling, CTS), Mohorič, Milán-San Remo 2022, ganó por 2 s tras atacar en el Poggio (Velo, CyclingTips)
 - TikTok e Instagram con «contenido generado por IA» marcado (voz de IA)
+- Programado en Metricool (Betacyclinglab) el martes 27/10/2026: YouTube 20:15 · TikTok 20:30 · Instagram 20:45
 
 ## Instagram (reel)
 ```
