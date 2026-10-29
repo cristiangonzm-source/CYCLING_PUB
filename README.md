@@ -13,3 +13,4 @@ El proyecto (motor, visor, guiones, biblioteca de fuentes) está en el repositor
 - [01 · El de detrás (rebufo)](01-el-de-detras/publicacion.md)
 - [02 · Tirar del pedal](02-tirar-pedal/publicacion.md)
 - [04 · Las curvas](04-curvas/publicacion.md)
+- [05 · La pájara](05-pajara/) — programado 29/10/2026 (TikTok 21:20 · YouTube 21:30 · Instagram 21:45)
