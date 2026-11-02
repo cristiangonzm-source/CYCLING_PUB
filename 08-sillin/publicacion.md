@@ -4,7 +4,7 @@
 - Portada: `portada.jpg` (segundo 1,8: «¿Te duele la parte de delante de la rodilla?» con el dolor en la rodilla)
 - No remite a ningún otro vídeo · datos: rodilla doblada unos 25-35° con el pedal abajo (Bini 2011, Ferrer-Roca 2012), 1 de cada 3 profesionales con dolor delante de la rodilla (Clarsen 2010, 109 ciclistas), ángulos de la simulación (sillín bien 30°, 5 cm más bajo 49°, 3 cm más alto la pierna no llega)
 - YouTube, TikTok e Instagram. Contenido generado por IA marcado en las tres. Mismo esquema de texto que el reel 07 (presión).
-- Programado en Metricool (Betacyclinglab) el martes 03/11/2026: YouTube 16:00 · TikTok 18:00 · Instagram 21:00
+- Programado en Metricool (Betacyclinglab): Instagram lunes 02/11/2026 21:00 (24 h después del 07) · YouTube martes 03/11 16:00 · TikTok martes 03/11 18:00
 
 ## Instagram (reel)
 ```
