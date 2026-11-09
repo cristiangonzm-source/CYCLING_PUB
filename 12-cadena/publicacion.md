@@ -4,7 +4,7 @@
 - Portada: segundo 1,5 («¿Cuándo limpiaste la cadena…?» con la cadena negra y el halo rojo)
 - No remite a ningún otro vídeo · datos: cadena limpia ≈ 2 % de pérdida (Spicer, Johns Hopkins); en laboratorio, mojada y con barro más del doble y seca el triple (Friction Facts, a 250 W); minutos en 100 km calculados (modelo de Martin 1998, llano, 200 W).
 - TikTok, Instagram y YouTube (petición del usuario, 09/11/2026). Contenido generado por IA marcado en las tres.
-- Programado en Metricool (Betacyclinglab) el lunes 09/11/2026: YouTube 19:45 · TikTok 20:15 · Instagram 20:40 (un poco antes de las 21:00, a petición del usuario)
+- Programado en Metricool (Betacyclinglab) el lunes 09/11/2026: YouTube 19:30 · TikTok 19:50 · Instagram 20:15 (antes de lo habitual, a petición del usuario)
 
 ## Instagram (reel)
 ```
