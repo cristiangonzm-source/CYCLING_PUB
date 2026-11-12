@@ -4,7 +4,7 @@
 - Portada: segundo 1,3 («¿Sales de casa sin mirar…?» con el ciclista entero y los puntos rojos)
 - No remite a ningún otro vídeo · sin cifras: cinco comprobaciones de mecánica básica (frenos, ruedas, dirección, presión, cadena).
 - TikTok, Instagram y YouTube. Contenido generado por IA marcado en las tres.
-- Programado en Metricool (Betacyclinglab) el jueves 12/11/2026: YouTube 19:30 · TikTok 19:50 · Instagram 21:00
+- Programado en Metricool (Betacyclinglab) el jueves 12/11/2026: YouTube 19:30 · TikTok 19:50 · Instagram 20:00
 - Qué se prueba: primer reel con la metodología nueva (comprobaciones desde el s 11, sin «sígueme» a mitad) y tipo «guardar».
 
 ## Instagram (reel)
