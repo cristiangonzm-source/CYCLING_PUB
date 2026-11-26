@@ -1,6 +1,6 @@
 # Reel 20 · Cuando un perro sale a por ti
 
-Programado el 26/11/2026 (todo esta tarde, por petición del usuario): YouTube 20:30 · TikTok 20:40 · Instagram 20:55. Marcado como contenido de IA en las tres. Portada a 1,5 s (perro ladrando pegado a la rueda).
+Programado el 26/11/2026 (todo esta tarde, por petición del usuario): Instagram 20:20 · YouTube 20:30 · TikTok 20:40. Marcado como contenido de IA en las tres. Portada a 1,5 s (perro ladrando pegado a la rueda).
 
 ## YouTube Short
 **Título:** Perro que te persigue en bici: 4 trucos para quitártelo de encima
